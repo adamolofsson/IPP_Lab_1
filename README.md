@@ -2,9 +2,3 @@
 
 <h2>Laboration 1</h2>
 <p>README fil till Laboration 1.</p>
-<p>README fil till Laboration 1.</p>
-hej
-hej
-hej
-hej
-<p>README fil till Laboration 1.</p>
